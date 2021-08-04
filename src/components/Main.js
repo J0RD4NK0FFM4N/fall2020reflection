@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types'
+nimport PropTypes from 'prop-types'
 import React from 'react'
 import pic01 from '../images/pic01.jpg'
 import pic02 from '../images/pic02.jpg'
@@ -82,7 +82,7 @@ For one class, we also wrote blog posts using the material, and I LOVED this. It
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Workload and Life Balance</h2>
+          <h2 className="major">Workload and Return to Campus</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
